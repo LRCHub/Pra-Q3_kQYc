@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "できっこないを やらなくちゃ(Live at 日本武道館 ,2017.12.3)",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-02-26T15:15:44.335976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "できっこないを やらなくちゃ",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_できっこないを_やらなくちゃ_サンボマスター.txt"
+    }
+  ]
+}
